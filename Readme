@@ -1,0 +1,25 @@
+MODELING PROJECT 
+
+Members of the Group
+1. Moran
+2. Chuks
+
+The goal of our project is to use linear regression to show how the effects of our independent variables such as (bedrooms, floors, zipcode ...), 
+affect our dependent variable which is the price in Seattle, Washington.
+
+The dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
+
+Our dataset contains 21,597 Observations, 21 variables and from May 2014/May 2015
+
+DAY 1:
+We will be performing explortatory data analysis on our dataset, discovering patterns, spot anomalies and graphical representations.
+
+DAY 2:
+We will be cleaning our dataset, removing typos, checking for correct typos, column names, looking for duplicates and null values. 
+We will also be standardizing the units from square feet to square meter, also dropping irrelevant columns that would have no effects on our datasets.
+
+DAY 3:
+Tranforming the data would begin, we would be scaling numerical features and encoding our categorical features.
+
+DAY 4: 
+Modeling, splitting data using  X Y Split and performing OLS on our test and train data.
